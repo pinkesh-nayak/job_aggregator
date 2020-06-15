@@ -13,8 +13,7 @@ Our main goal is to build a job aggregator which will be used by every job appli
 
 ## **Process Outline** 
 
-
-![Process Outline](data/process.png?raw=true)
+< img src = "https://github.com/pinkesh-nayak/job_aggregator/blob/master/data/process.PNG">
 
 
 ## **Data Source and Access Rights**<br>
