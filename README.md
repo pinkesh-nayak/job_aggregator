@@ -14,7 +14,7 @@ Our main goal is to build a job aggregator which will be used by every job appli
 ## **Process Outline** 
 
 
-<img src= "data/process.png">
+![Process Outline](blob/master/data/process.png)
 
 
 ## **Data Source and Access Rights**<br>
