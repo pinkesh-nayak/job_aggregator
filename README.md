@@ -18,6 +18,7 @@ Our main goal is to build a job aggregator which will be used by every job appli
 
 ## **Data Source and Access Rights**<br>
 ### **Randstad: Web Scraping**<br>
+Note: Web Scraping was done for academic purposes only.
 Link: https://www.randstad.com/jobs/united-states/q-data-science/<br>
 1. Check robot.txt of Randstad | It allows scraping with crawl delay of 5 seconds. <br>
 
